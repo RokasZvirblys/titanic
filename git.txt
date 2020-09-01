@@ -1,9 +1,0 @@
-Cmd prompt
-
-cd i faila
-
-git init
-
-git remote add origin + url is git tinklapio
-
-git add -A
